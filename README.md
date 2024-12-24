@@ -70,5 +70,5 @@ The project follows object-oriented design principles with a clear separation of
 
 The modular design allows for easy extension and modification of components.
 
-### Contributing 
+## Contributing 
 Feel free to fork the project and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
